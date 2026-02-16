@@ -17,4 +17,4 @@ function ReverseArray1(arrNum: number[]): number[]{
 
 }
 
-console.log(ReverseArray([1, 2, 3, 4, 5]));
+console.log(ReverseArray1([1, 2, 3, 4, 5]));
